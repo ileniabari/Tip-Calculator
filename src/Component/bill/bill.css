@@ -1,0 +1,14 @@
+.bill {
+    text-align: center;
+    margin: auto;
+    background-color: wheat;
+    max-width: 50%;
+    min-width: 10%;
+    padding: 5%;
+    border-radius: 20%;
+  
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border-style: solid;
+    border-color: bisque;
+    border-width: 3px;
+  }
